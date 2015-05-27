@@ -98,7 +98,7 @@ Main components
   margin-right: 5%;
   width: 44px;
   height: 100%;
-  background: url("../img/cd-icon-menu.svg") no-repeat center center;
+  background: url("images/menu-alt.svg") no-repeat center center;
   background-size: 44px 44px;
   cursor: pointer;
 }
@@ -220,6 +220,12 @@ Main components
 }
 .cd-fixed-bg.cd-bg-4 {
   background-image: url("images/backgrounds/cd-background-4.jpg");
+}
+.cd-fixed-bg.cd-bg-5 {
+  background-image: url("images/backgrounds/cd-background-5.jpg");
+}
+.cd-fixed-bg.cd-bg-6 {
+  background-image: url("images/backgrounds/cd-background-6.jpg");
 }
 @media only screen and (min-width: 768px) {
   .cd-fixed-bg h1, .cd-fixed-bg h2 {
